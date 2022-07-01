@@ -5,9 +5,9 @@
 /**
  * main - Entry point
  *
- * Description:  checks if a last digit of a number
+ * Description: This is a longer description
  *
- * Return : Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
