@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- * Description :  checks if a last digit of a number.
+ * Description:  checks if a last digit of a number
  * Return : Always 0 (Success)
  */
 int main(void)
