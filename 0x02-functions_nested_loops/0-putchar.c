@@ -11,7 +11,7 @@ int main(void)
 
 	int i;
 
-	for(i = 0; i < sizeof s / sizeof s[0]; i++)
+	for(i = 0; i < (int)(sizeof s / sizeof s[0]); i++)
 	{
 		_putchar(s[i]);	
 	}
